@@ -6,4 +6,4 @@
 
 ---
 
-![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=radical)
+![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanHahn&show_icons=true&theme=radical)
