@@ -1,4 +1,5 @@
-# Cześć, jestem Jan! 👋
+Electronics engineer
+Programming enthusiast
 
 ## 📫 Kontakt
 - [LinkedIn](https://linkedin.com/in/twojprofil)
