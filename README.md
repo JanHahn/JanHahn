@@ -1,5 +1,4 @@
-Electronics engineer
-Programming enthusiast
+Electronics engineer, programming enthusiast
 
 ## 📫 Kontakt
 - [LinkedIn](https://linkedin.com/in/twojprofil)
