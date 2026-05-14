@@ -1,4 +1,4 @@
-Electronics engineer, programming enthusiast
+Computer science, Electronics engineer 
 
 ## 📫 Kontakt
 - [LinkedIn](https://linkedin.com/in/twojprofil)
